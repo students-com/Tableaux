@@ -4,4 +4,4 @@
 
 Reproduiser le tableau ci dessous en html
 
-<img src="./ressources/tableaux/table-amort.png" alt="container">
+<img src="./table-amort.png" alt="container">
